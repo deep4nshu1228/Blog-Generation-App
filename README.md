@@ -9,8 +9,8 @@ Streamlit framework is used to build the web app to give prompt with number of w
 - `python-box`
 - `uvicorn`
 
-### Download the Llama-2 model form Hugging Face
-
+### Download the model
+Create a folder named ***models*** and download the Llama-2 model from huggin face using the following link.
 ```txt
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin?download=true
 ```
